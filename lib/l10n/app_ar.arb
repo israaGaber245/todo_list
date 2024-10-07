@@ -1,0 +1,20 @@
+{
+"settings":"الاعدادات",
+"to_do_list":"To Do List",
+"task_title":"عنوان المهمه",
+"add_new_task":"اضافه مهمه جديده",
+"enter_your_task":"ادخل المهمه",
+"enter_your_description":"ادخل الوصف",
+"select_time":"اختار الوقت",
+"add":"اضافه",
+"language":"اللغه",
+"arabic":"العربيه",
+"english":"الانجليزيه",
+"mode":"النمط",
+"light":"نهارى",
+"dark":"ليلي",
+"edit_task":"تعديل المهمه",
+"this_is_title":"هذا العنوان",
+"task_details":"تفاصيل المهمه",
+"save_changes":"حفظ التغيرات"
+}

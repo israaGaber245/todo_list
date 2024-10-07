@@ -1,0 +1,20 @@
+{
+"settings":"Settings",
+"to_do_list":"To Do List",
+"task_title":"Task Title",
+"add_new_task":"Add new Task",
+"enter_your_task":"enter your task",
+"enter_your_description":"enter your description",
+"select_time":"Select Time",
+"add":"Add",
+"language":"Language",
+"arabic":"Arabic",
+"english":"English",
+"mode":"Mode",
+"light":"Light",
+"dark":"Dark",
+"edit_task":"Edit Task",
+"this_is_title":"This is Title",
+"task_details":"Task Details",
+"save_changes":"Save Changes"
+}
